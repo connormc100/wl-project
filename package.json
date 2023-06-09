@@ -1,0 +1,19 @@
+{
+  "name": "wl-project",
+  "version": "1.0.0",
+  "description": "Example project for wireless logic test",
+  "main": "./bin/index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/connormc100/wl-test"
+  },
+  "keywords": [
+    "promise",
+    "async"
+  ],
+  "author": "Connor McElroy",
+  "license": "ISC"
+}
