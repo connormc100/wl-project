@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1686687183264" clover="3.2.0">
+  <project timestamp="1686687183264" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="21" coveredconditionals="20" methods="4" coveredmethods="4" elements="46" coveredelements="45" complexity="0" loc="21" ncloc="21" packages="2" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="19" coveredstatements="19" conditionals="21" coveredconditionals="20" methods="4" coveredmethods="4"/>
+      <file name="extractionService.ts" path="C:\wl-project\src\extractionService.ts">
+        <metrics statements="19" coveredstatements="19" conditionals="21" coveredconditionals="20" methods="4" coveredmethods="4"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="16" count="6" type="cond" truecount="5" falsecount="0"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="31" count="9" type="stmt"/>
+        <line num="32" count="9" type="stmt"/>
+        <line num="34" count="9" type="stmt"/>
+        <line num="35" count="9" type="stmt"/>
+        <line num="43" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.mock">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="website.mock.ts" path="C:\wl-project\src\mock\website.mock.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="wrongWebsite.mock.ts" path="C:\wl-project\src\mock\wrongWebsite.mock.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
